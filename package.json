@@ -1,0 +1,33 @@
+{
+  "name": "anydoor",
+  "version": "0.1.1",
+  "description": "tiny node.js static web server",
+  "main": "src/app.js",
+  "bin":{
+  	"anydoor":"bin/anydoor"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duanxuhao/anydoor.git"
+  },
+  "keywords": [
+    "tiny",
+    "node.js",
+    "static",
+    "web",
+    "server"
+  ],
+  "author": "duanxuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duanxuhao/anydoor/issues"
+  },
+  "homepage": "https://github.com/duanxuhao/anydoor#readme",
+  "dependencies": {
+    "handlebars": "^4.0.12",
+    "yargs": "^12.0.5"
+  }
+}
