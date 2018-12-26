@@ -1,5 +1,5 @@
 {
-  "name": "anydoor",
+  "name": "anydoor-dxh",
   "version": "0.1.1",
   "description": "tiny node.js static web server",
   "main": "src/app.js",
