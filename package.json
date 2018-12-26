@@ -1,10 +1,10 @@
 {
   "name": "anydoor-dxh",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "tiny node.js static web server",
   "main": "src/app.js",
-  "bin":{
-  	"anydoor":"bin/anydoor"
+  "bin": {
+    "anydoor": "bin/anydoor"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
